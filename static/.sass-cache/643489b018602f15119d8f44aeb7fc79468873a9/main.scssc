@@ -1,0 +1,10 @@
+3.5.6
+3dabfbac2bc442734203c30af08c12476c3dc624
+o:Sass::Tree::RootNode:@children[*o:Sass::Tree::RuleNode:
+@rule[I".signup:ET:@parsed_ruleso:"Sass::Selector::CommaSequence:
+@members[o:Sass::Selector::Sequence;[o:#Sass::Selector::SimpleSequence;[o:Sass::Selector::Class:
+@nameI"signup;	T:
+@linei:@filename0:
+@subject0:
+@sourceso:Set:
+@hash}
